@@ -37,6 +37,27 @@ I use the following template for weekly logs.
 -----
 
 ## Resource list
+
+https://medium.com/@sathishvj/qwiklabs-free-codes-gcp-and-aws-e40f3855ffdb
+
+https://medium.com/@qwiklabs/earth-day-c1beb7c50581
+
+https://medium.com/@singularbean/google-search-console-data-into-google-bigquery-3e794127fa08
+
+https://medium.com/google-cloud/overview-of-serverless-compute-products-on-google-cloud-platform-f4aa47a14ecb
+
+https://towardsdatascience.com/bigquery-for-data-science-bc9c7c27de4b
+
+https://medium.com/@aleksandrosiyuk/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%BF%D0%BE-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B2-bigquery-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-schedule-query-5a868125f181
+
+https://web-analytics.me/unsampled_data
+
+https://www.gcpweekly.com/newsletter/132/
+
+https://medium.com/@singularbean/5-beginner-tips-for-google-bigquery-32407e0c3d85
+
+https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value
+
 ```
 ### Motivation
 Motivated by @Codeidoscope https://dev.to/codeidoscope/tracking-your-progress-to-improve-your-confidence-12lh
