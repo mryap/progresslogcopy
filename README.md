@@ -62,3 +62,8 @@ https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifet
 ### Motivation
 Motivated by @Codeidoscope https://dev.to/codeidoscope/tracking-your-progress-to-improve-your-confidence-12lh
 
+### Current Deployment (As at 27th April 2019)
+
+http://35.184.66.3/
+https://wpgcp-234213.appspot.com/
+https://hello-syeqdn6uxq-uc.a.run.app/
