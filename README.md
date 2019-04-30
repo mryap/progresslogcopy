@@ -1,6 +1,5 @@
 # Progress Log
 
-## What is this?
 A `progresslog` is a log of the tasks I am planning on completing, the tasks I have completed, the problems I faced, the solutions I found and the resources I discovered in the process.
 
 ## Why do I log?
@@ -67,3 +66,8 @@ Motivated by @Codeidoscope https://dev.to/codeidoscope/tracking-your-progress-to
 http://35.184.66.3/
 https://wpgcp-234213.appspot.com/
 https://hello-syeqdn6uxq-uc.a.run.app/
+
+### Local Directory
+
+C:\Users\mryapss\Desktop\y\progresslog
+
